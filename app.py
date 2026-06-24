@@ -10,9 +10,10 @@ st.title("🏭 ICT FOR CYBERSECURITY")
 
 st.subheader("IIoT Security Audit Tool")
 
-st.write(
-"""
+st.write("""
 Welcome to our university project.
+
+This application helps industries evaluate their IIoT cybersecurity level.
 
 Use the menu on the left side to explore:
 
@@ -25,5 +26,4 @@ Use the menu on the left side to explore:
 🏭 IIoT Benefits
 
 👥 About Project
-"""
-)
+""")
